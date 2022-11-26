@@ -1,1 +1,3 @@
-console.log('Git is Awesome!');
+let message = prompt('Please enter a message: ');
+
+alert(message);
